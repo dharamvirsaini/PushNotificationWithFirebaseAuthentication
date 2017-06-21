@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "814587028713",
+    "firebase_url": "https://notificationfirebase-e5a3a.firebaseio.com",
+    "project_id": "notificationfirebase-e5a3a",
+    "storage_bucket": "notificationfirebase-e5a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814587028713:android:55ef940f0d941e85",
+        "android_client_info": {
+          "package_name": "com.example.dharamvir.notificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814587028713-679qkir76cal3hs9clda9crs3p2cjn3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAazrz9FpBl22eY3JoNes5XHc8n5K_fEig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
